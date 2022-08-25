@@ -1,4 +1,4 @@
-## Welcome to the Jayich Lab's GitHub Organization.
+## Welcome to the Jayich Lab's GitHub Organization
 
 We're a research group that does basic science primarily with trapped atomic and molecular ions, you can read more about that on our [website.](https://jayich.io/)
 
