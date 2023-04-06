@@ -7,4 +7,5 @@ This gives us valuable feedback that the work is helpful (and we'll likely put m
 
 ![Zulip logo](./profile/zulip-icon-circle.svg width="150" height="150") We use Zulip for asynchronous communication, it's great and free for academia.
 
-<imag src="./profile/zulip-icon-circle.svg" width="150" height="150">
+
+<img src="./profile/zulip-icon-circle.svg" width="150" height="150">
