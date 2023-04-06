@@ -23,3 +23,9 @@ The image will float to the left of the text.</p>
   <img style="vertical-align:middle;width:30px;height:30px;" src="./profile/zulip-icon-circle.svg" alt="Zulip logo">
   <span style="vertical-align:middle">Works.</span>
 </div>
+
+
+<div>
+  <img style="vertical-align:middle" src="https://placehold.it/60x60">
+  <span style="">Works.</span>
+</div>
