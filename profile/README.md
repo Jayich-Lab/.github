@@ -7,8 +7,9 @@ This gives us valuable feedback that the work is helpful (and we'll likely put m
 
 <div style="text-align:center" text test><img src="./profile/zulip-icon-circle.svg" width="13" height="13"> We use Zulip for asynchronous communication, it's great and free for academia.
   
+  
  <div>
-  <img style="vertical-align:middle" src="./profile/zulip-icon-circle.svg" width="13" height="13" alt=We use Zulip for asynchronous communication, it's great and free for academia.">
+  <img style="vertical-align:middle" src="./profile/zulip-icon-circle.svg" width="13" height="13" alt="We use Zulip for asynchronous communication, it's great and free for academia.">
   <span style="">Works.</span>
 </div>
 
