@@ -29,3 +29,24 @@ The image will float to the left of the text.</p>
   <img style="vertical-align:middle" src="https://placehold.it/60x60">
   <span style="">Works.</span>
 </div>
+
+
+<html>
+  <head>
+    <style>
+    .aligned {
+      display: flex;
+      align-items: center;
+    }
+    .aligned > img {
+      margin-right: 10px;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="aligned">
+      <img src="https://via.placeholder.com/150.png/09f/fff">
+      A blue square.
+    </div>
+  </body>
+</html>
