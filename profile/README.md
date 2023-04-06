@@ -12,10 +12,6 @@ This gives us valuable feedback that the work is helpful (and we'll likely put m
 <!---   <img style="vertical-align:middle" src="./profile/zulip-icon-circle.svg" width="13" height="13" alt="Zulip logo">            
 -->
  
-<div>
-  <img style="vertical-align:middle;width:30px;height:30px;" src="./profile/zulip-icon-circle.svg" alt="Zulip logo">
-  <span style="">Works.</span>
-</div>
 
 <!---
 <p><img src="./profile/zulip-icon-circle.svg" alt="Zulip logo" style="float:left;width:42px;height:42px;">
@@ -23,3 +19,7 @@ The image will float to the left of the text.</p>
 -->
 
 
+<div>
+  <img style="vertical-align:middle;width:30px;height:30px;" src="./profile/zulip-icon-circle.svg" alt="Zulip logo">
+  <span style="vertical-align:middle">Works.</span>
+</div>
