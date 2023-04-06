@@ -11,8 +11,8 @@ This gives us valuable feedback that the work is helpful (and we'll likely put m
 -->
  
 <div>
-  <img style="vertical-align:middle" src="./profile/zulip-icon-circle.svg" alt="Zulip logo" width="30" height="30">
-  <span style="vertical-align:middle">Works.</span>
+  <img style="vertical-align:middle;width:30px;height:30px;" src="./profile/zulip-icon-circle.svg" alt="Zulip logo">
+  <span style="">Works.</span>
 </div>
 
 
