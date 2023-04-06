@@ -17,5 +17,7 @@ This gives us valuable feedback that the work is helpful (and we'll likely put m
   <span style="">Works.</span>
 </div>
 
+<p><img src="./profile/zulip-icon-circle.svg" alt="Zulip logo" style="float:left;width:42px;height:42px;">
+The image will float to the left of the text.</p>
 
 
