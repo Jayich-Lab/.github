@@ -5,27 +5,4 @@ We're a research group at UC Santa Barbara that does basic science primarily wit
 We do what we can to make repos public that might be helpful to others (this takes extra effort to polish for public consumption).  If a repo is useful, consider giving it a star. 
 This gives us valuable feedback that the work is helpful (and we'll likely put more time into the project).
 
-<!---
-<div style="text-align:center" text test><img src="./profile/zulip-icon-circle.svg" width="13" height="13"> We use Zulip for asynchronous communication, it's great and free for academia.
---> 
-
-<!---   <img style="vertical-align:middle" src="./profile/zulip-icon-circle.svg" width="13" height="13" alt="Zulip logo">            
--->
- 
-
-<!---
-<p><img src="./profile/zulip-icon-circle.svg" alt="Zulip logo" style="float:left;width:42px;height:42px;">
-The image will float to the left of the text.</p>
--->
-
-
-<div>
-  <img style="vertical-align:middle;width:30px;height:30px;" src="./profile/zulip-icon-circle.svg" alt="Zulip logo">
-  <span style="vertical-align:middle">Works.</span>
-</div>
-
-
-<div>
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <span style="">Works.</span>
-</div>
+We use [Zulip](https://zulip.com/) for asynchronous communication, it's great.
